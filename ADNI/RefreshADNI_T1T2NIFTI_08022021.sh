@@ -1,0 +1,1 @@
+/home/lxie/ADNI2018/scripts/RefreshADNI_T1T2NIFTI_08022021.sh

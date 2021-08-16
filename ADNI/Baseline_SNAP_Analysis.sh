@@ -1,0 +1,1 @@
+/home/lxie/ADNI2018/scripts/Baseline_SNAP_Analysis.sh

@@ -1,0 +1,1 @@
+/home/lxie/ADNI2018/scripts/ashs-fast-z.sh

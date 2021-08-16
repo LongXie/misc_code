@@ -1,0 +1,1 @@
+/home/lxie/ADNI2018/scripts/c3ddcm2nii_long.sh
